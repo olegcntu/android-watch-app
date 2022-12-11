@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Watch Application</string>
+    <string name="ticker">Ticker</string>
+    <string name="timer">Timer</string>
+    <string name="done">Done</string>
+    <string name="options">Options</string>
+    <string name="timezone">Select timezone</string>
 </resources>

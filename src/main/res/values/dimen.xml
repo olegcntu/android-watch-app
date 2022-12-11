@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menuButtonWidth">180dp</dimen>
+    <dimen name="menuItemHeight">52dp</dimen>
+    <dimen name="menuItemSpace">24dp</dimen>
+    <dimen name="buttonRadius">4dp</dimen>
+    <dimen name="logoSize">96dp</dimen>
+    <dimen name="logoMargin">96dp</dimen>
+    <dimen name="appTitleMargin">16dp</dimen>
+    <dimen name="appNameTextSize">20sp</dimen>
+</resources>
